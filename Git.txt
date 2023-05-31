@@ -1,0 +1,10 @@
+------DELETAR COMMITS E AS MODIFICAÇÕES FEITAS----
+git status - ver se há algo no stage
+git reset --hard "código do commit" - irá EXCLUIR tudo oque foi feito após o commit que foi passado
+git reset --hard HEAD~1 - irá EXCLUIR o último commit feito
+
+
+
+
+
+
